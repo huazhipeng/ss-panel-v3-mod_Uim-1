@@ -526,7 +526,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `user_name`, `email`, `pass`, `passwd`, `t`, `u`, `d`, `plan`, `transfer_enable`, `port`, `switch`, `enable`, `type`, `last_get_gift_time`, `last_check_in_time`, `last_rest_pass_time`, `reg_date`, `invite_num`, `money`, `ref_by`, `expire_time`, `method`, `is_email_verify`, `reg_ip`, `node_speedlimit`, `node_connector`, `is_admin`, `im_type`, `im_value`, `last_day_t`, `sendDailyMail`, `class`, `class_expire`, `expire_in`, `theme`, `ga_token`, `ga_enable`, `pac`, `remark`, `node_group`, `auto_reset_day`, `auto_reset_bandwidth`, `protocol`, `protocol_param`, `obfs`, `obfs_param`, `forbidden_ip`, `forbidden_port`, `disconnect_ip`, `is_hide`, `is_multi_user`, `telegram_id`) VALUES
-(1, 'admin', 'marisn@67cc.cn', '3d1463ff6f0de789723487ff6df76ab293b1651067ecda8efa547efcab885a30', 'VC7wzz', 0, 0, 0, 'A', 1073741824, 1025, 1, 1, 1, 0, 0, 0, '2018-08-25 13:21:13', 10, '0.00', 0, 0, 'rc4-md5', 0, '127.0.0.1', '0.00', 0, 1, 1, '', 0, 0, 0, '1989-06-04 00:05:00', '2028-08-22 13:21:13', 'material', 'T3UK5HRSSCGXJNE2', 0, NULL, NULL, 0, 0, '0.00', 'origin', NULL, 'plain', NULL, NULL, NULL, NULL, 0, 0, NULL);
+(1, 'admin', 'admin@admin', '3d1463ff6f0de789723487ff6df76ab293b1651067ecda8efa547efcab885a30', 'VC7wzz', 0, 0, 0, 'A', 1073741824, 1025, 1, 1, 1, 0, 0, 0, '2018-08-25 13:21:13', 10, '0.00', 0, 0, 'rc4-md5', 0, '127.0.0.1', '0.00', 0, 1, 1, '', 0, 0, 0, '1989-06-04 00:05:00', '2028-08-22 13:21:13', 'material', 'T3UK5HRSSCGXJNE2', 0, NULL, NULL, 0, 0, '0.00', 'origin', NULL, 'plain', NULL, NULL, NULL, NULL, 0, 0, NULL);
 
 -- --------------------------------------------------------
 
