@@ -1,14 +1,7 @@
 <?php
 
-/**
-
-  搭建问题可联系QQ209224407打赏解决
-
-*/
-
-
 //基本设置-----------------------------------------------------------------------
-$System_Config['key'] = '209224407';			// !!! 瞎 jb 修改此key为随机字符串确保网站安全 !!!
+$System_Config['key'] = '306921683';			// !!! 瞎 jb 修改此key为随机字符串确保网站安全 !!!
 $System_Config['debug'] =  'false';  //  正式环境请确保为 false
 $System_Config['appName'] = '我是站点名';             //站点名称
 $System_Config['baseUrl'] = 'http://url.com';            // 站点地址
